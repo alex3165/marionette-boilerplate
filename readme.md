@@ -1,6 +1,6 @@
 # Backbone Marionette example
 
-Ready to go backbone marionette boilerplate showed through an example with 2 simples components. Components are a slider that use [slick](http://kenwheeler.github.io/slick/) slider and a [magnific-popup](http://dimsemenov.com/plugins/magnific-popup/)/flexbox gallery.
+Ready to go backbone marionette boilerplate showed through a one page application. The example contain 2 components, a slider that use [slick](http://kenwheeler.github.io/slick/) slider and a [magnific-popup](http://dimsemenov.com/plugins/magnific-popup/)/flexbox gallery.
 
 ## Inside the boilerplate
 
