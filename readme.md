@@ -1,6 +1,6 @@
 # Backbone Marionette example
 
-Ready to go backbone marionette boilerplate showed through a one page application. The example contain 2 components, a slider that use [slick](http://kenwheeler.github.io/slick/) slider and a [magnific-popup](http://dimsemenov.com/plugins/magnific-popup/)/flexbox gallery.
+Ready to go backbone-marionette, browserify boilerplate demonstrated through a one page application. The example contain 2 components, a slider that use [slick](http://kenwheeler.github.io/slick/) slider and a [magnific-popup](http://dimsemenov.com/plugins/magnific-popup/)/flexbox gallery.
 
 ## Inside the boilerplate
 
@@ -10,3 +10,16 @@ Ready to go backbone marionette boilerplate showed through a one page applicatio
 - [Stylus](https://learnboost.github.io/stylus/)
 - [Handlebars](http://handlebarsjs.com/)
 - [Underscore](http://underscorejs.org/)
+
+## Others
+
+I just updated and improved the following github repository [Marionetteify](https://github.com/JSteunou/marionetteify).
+
+## Install 
+
+````shell
+
+npm install
+grunt run
+
+````
