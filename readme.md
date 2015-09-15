@@ -10,6 +10,7 @@ Ready to go backbone-marionette, browserify boilerplate demonstrated through a o
 - [Stylus](https://learnboost.github.io/stylus/)
 - [Handlebars](http://handlebarsjs.com/)
 - [Underscore](http://underscorejs.org/)
+- [Grunt](http://gruntjs.com/)
 
 ## Others
 
